@@ -1,5 +1,3 @@
-🏹 CODE : 
-
 while true # start an infinite loop
 do
   echo "RoushaanGG" # print "RoushaanGG"
